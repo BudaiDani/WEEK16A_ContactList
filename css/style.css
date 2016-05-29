@@ -1,0 +1,14 @@
+
+#bg {
+    background:url("http://sellingwithinsight.com/wp-content/uploads/2016/04/business-cards-backgrounds-designs-06-11-slick-businesscard-duplicated-finished.jpg");
+    width:30%;
+    height:40%;
+    position:absolute;
+}
+
+#info {
+	padding: 20px;
+    color: royalblue;
+    font-family: 'Open Sans', sans-serif;
+	font-size: 50 px;
+}
